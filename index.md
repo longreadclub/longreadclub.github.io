@@ -5,4 +5,5 @@
 layout: default
 ---
 
-The first rule of long read club is ... 
+The first rule of long read club is ... <a href="https://docs.google.com/forms/d/e/1FAIpQLSd9sFYIboIYLWnCHcd836lH9gz0BJC5vIPkgwkHteoP_kIwVA/viewform">sign-up for email notifications!</a>
+
