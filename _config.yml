@@ -27,6 +27,8 @@ markdown: kramdown
 theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
+gems:
+  - jekyll-theme-merlot
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
