@@ -17,13 +17,13 @@ The first rule of long read club is ... <a href="https://docs.google.com/forms/d
 
 Our YouTube channel is at:
 
-https://www.youtube.com/c/longreadclub
+<https://www.youtube.com/c/longreadclub>
 
 ## Protocols.io
 
 Head over to our Protocols.io group at:
 
-https://www.protocols.io/groups/longreadclub
+<https://www.protocols.io/groups/longreadclub>
 
 ## Datasets
 
@@ -34,7 +34,7 @@ This page contains links to examplar or notable long-read datasets:
 The nanopore human WGS consortium are curating a regularly-updated NA12878 human cell line
 data release from nanopore data. More information on their Github:
 
-https://github.com/nanopore-wgs-consortium/NA12878
+<https://github.com/nanopore-wgs-consortium/NA12878>
 
 ### Telomere-to-telomere Consortium
 
@@ -42,7 +42,7 @@ at AGBT, the T2T consortium released an extensive dataset for the haploid human 
 line including 50X ultra-long nanopore coverage, 10X Genomics data, BioNano data. This is
 complimented by existing PacBio data.
 
-https://github.com/nanopore-wgs-consortium/CHM13
+<https://github.com/nanopore-wgs-consortium/CHM13>
 
 ### E. coli ultra-long read dataset
 
