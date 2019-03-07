@@ -24,11 +24,11 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-merlot
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
 gems:
-  - jekyll-theme-merlot
+  - jekyll-theme-dinky
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
