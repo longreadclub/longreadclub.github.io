@@ -38,11 +38,15 @@ data release from nanopore data. More information on their Github:
 
 ### Telomere-to-telomere Consortium
 
-at AGBT, the T2T consortium released an extensive dataset for the haploid human CHM1 cell
-line including 50X ultra-long nanopore coverage, 10X Genomics data, BioNano data. This is
-complimented by existing PacBio data.
+![Telomere to telomere consortium logo](assets/t2t.png)
 
-<https://github.com/nanopore-wgs-consortium/CHM13>
+At AGBT 2019, the T2T consortium released an extensive dataset for the haploid human CHM13 cell
+line including 50X ultra-long nanopore coverage, 10X Genomics data, BioNano data. This is
+complimented by existing PacBio data. The goal of the consortium is to complete a telomere-to-telomere
+contiguous finished assembly of a haploid human genome.
+
+Find out more at their website: <https://sites.google.com/ucsc.edu/t2tworkinggroup/home>
+Data release available via GitHub: <https://github.com/nanopore-wgs-consortium/CHM13>
 
 ### E. coli ultra-long read dataset
 
