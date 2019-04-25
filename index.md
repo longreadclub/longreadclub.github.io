@@ -19,6 +19,22 @@ Our YouTube channel is at:
 
 <https://www.youtube.com/c/longreadclub>
 
+Episode 1: What is Long Read Club?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lNj98pbLPPA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Episode 2: DNA extraction with Jill Herschleb, 10X Genomics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GlbMKds2RNc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Episode 3: Whole human genome assemblies with Adam Phillippy, NHGRI
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W73yA4nR_Ug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Episode 4: The Flye assembler with Mikhail Kolmogorov and Jeffrey Yuan, UCSD
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/It5KXnPBnbg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Protocols.io
 
 Head over to our Protocols.io group at:
