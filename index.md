@@ -9,18 +9,6 @@ layout: default
 
 Long read club is part of a recently funded Wellcome Trust Technology Development Award. Our overall goal is to help the genomics community achieve finished quality, complete reference quality genomes routinely and at scale.
 
-## Posts available
-
-We are currently advertising for two posts!
-
-**Research Fellow** (based at University of Birmingham)
-Closing Date: Friday, 31st May 2019
-<https://www.jobs.ac.uk/job/BRQ798/research-fellow-sequencing-molecular-biology>
-
-**Research Associate/Fellow** (based at University of Nottingham)
-Closing Date: Monday, 27th May 2019
-<http://jobs.nottingham.ac.uk/MED056719X1>
-
 ## Email list
 
 The first rule of long read club is ... <a href="http://eepurl.com/go5sFf">sign-up for email notifications to be informed about upcoming online events!</a>. 
