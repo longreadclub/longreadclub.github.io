@@ -106,7 +106,7 @@ Episode 4: The Flye assembler with Mikhail Kolmogorov and Jeffrey Yuan, UCSD
 
 Episode 5: Introducing MorphoSeq: high accuracy long reads from short read platforms, Aaron Darling, Longas Technologies
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/36Y3-ZerMCU frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/36Y3-ZerMCU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Protocols.io
 
