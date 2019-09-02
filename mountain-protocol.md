@@ -170,7 +170,7 @@ EB to prevent bead clumping during 0.4-0.5x AMPureXP purifications when
 DNA fragments are large and at high concentrations. Shown below are the
 results from a batch of 12 runs we performed using this approach.
 
-> ![](/media/image1.png)
+> ![](/assets/mountain-protocol/image1.png)
 
 **Protocol: Modified LSK109 ligation prep with needle shear and bead
 clean up**
@@ -276,7 +276,7 @@ that is DNA fragment length dependent. Shown below are two libraries
 produced from an identical sample sheared to an increasingly smaller
 size and run.
 
-![](/media/image2.png)
+![](/assets/mountain-protocol/image2.png)
 
 Using DNaseI surface clearing we often see recovery of an additional
 50-80% of total reported pores on top of what a mux scan reports before
@@ -289,7 +289,7 @@ left to use. The flowcell is “reset” ready for the next library addition
 and run restart. That may be the same library again or something
 different……
 
-![](/media/image3.png)
+![](/assets/mountain-protocol/image3.png)
 
 With our “blocky” rat genomic samples sheared to 18-34kb we have been
 performing these resets every 16-24 hrs. For larger fragment lengths we
@@ -324,7 +324,7 @@ buffers perform a similar task, and are performing a little better at
 this stage. We do not know what exactly has been used in their
 solutions.
 
-![](/media/image4.png)
+![](/assets/mountain-protocol/image4.png)
 
 One advantage of knowing that PEG/NaCl can be used in this fashion came
 with the realisation that given ligation buffers often use high PEG
@@ -338,7 +338,7 @@ when coming out of the LSK109 library End-Prep reaction was taken and
 used to develop the Bead-free LSK109 ligation prep for ultra-long DNA
 detailed below in the next section.
 
-![](/media/image5.png)
+![](/assets/mountain-protocol/image5.png)
 
 If people feel so inclined I can provide further details on the current
 matrix of PEG size / concentrations and salt type / concentrations we
@@ -396,7 +396,7 @@ finished library but didn’t see consistent depletion comparing the two,
 so still things to be worked out for consistency and to understanding
 what is happening.
 
-![](/media/image6.png)
+![](/assets/mountain-protocol/image6.png)
 
 As a fall back, assuming little size selection can be implemented during
 the prep for now, we looked again at the size selection step at the end
@@ -412,7 +412,7 @@ low with long frag blockage. We are seeing the SRE buffer performing
 better at short fragment removal, but want to investigate what is going
 on with the upper end and read N50.
 
-![](/media/image7.png)
+![](/assets/mountain-protocol/image7.png)
 
 **Protocol: Bead-free long fragment LSK109 library preparation**
 
