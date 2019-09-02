@@ -2,14 +2,16 @@
 title: Rocky Mountain adventures in Genomic DNA
 permalink: /mountain-protocol/
 layout: default
+author: jtyson
 ---
 
 **Rocky Mountain adventures in Genomic DNA sample preparation, ligation
 protocol optimisation / simplification and Ultra long read generation**
 
-So been a while since I posted on the community so a bit of catching up
-to do…..:o). We have been playing quite a bit with native genomic DNA
-sequencing for a project we have running on Epigenetic modifications of
+_John Tyson (Snutch Lab, UBC, Vancouver, BC, Canada)_
+
+We have been playing quite a bit with native genomic DNA sequencing for a
+project we have running on Epigenetic modifications of
 Rat models of neurological disease. While we are still rapidly iterating
 on tweaks etc. to some new protocols around increasing our production
 efficiency of ultra-long reads (100kb+) using LSK109 ligation kit
@@ -510,6 +512,4 @@ Who knew that PEG and salt would be a route to cheap ultra-long reads,
 we all just need to keep tweaking away in an open fashion and who knows
 where we can get. Anyway that’s enough from me for now, happy Nanopore
 adventuring\!
-
-John Tyson (Snutch Lab, UBC, Vancouver, BC, Canada)
 
